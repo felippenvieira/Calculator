@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+Console.WriteLine("Primeiro valor: ");
+float v1 = float.Parse(Console.ReadLine());
+Console.WriteLine(v1);
